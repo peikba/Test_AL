@@ -1,0 +1,25 @@
+{
+  "id": "1c4cf909-1bbc-404e-a2fe-4a85b05781e9",
+  "name": "Extension Details",
+  "publisher": "Peik Bech-Andersen",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "http://ba-consult.dk/downloads/Warrenty.txt",
+  "help": "https://dynamicsuser.net/nav/b/peik/posts/extension-detail-information-as-an-extension",
+  "url": "https://dynamicsuser.net/nav/b/peik/posts/developing-extensions-blindfolded-in-dynamics-nav",
+  "logo": "\\\\bac_host\\wwwroot\\downloads\\ExtensionDetails_small.jpg",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "target": "Internal",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+  
+}
